@@ -1,0 +1,20 @@
+# ignore all files under below folders
+*/bin/
+*/target/
+/RemoteSystemsTempFiles/
+/Servers/
+/.metadata/
+/.recommenders/
+*/.idea/
+.idea/
+*/.settings/
+.settings/
+*/.svn
+/.git
+*.iml
+*/.classpath
+*/.project
+*/.svn/
+*/logs/
+logs/*
+center/center-*/target/
