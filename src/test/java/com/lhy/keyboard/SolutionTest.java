@@ -2,8 +2,6 @@ package com.lhy.keyboard;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
-
 public class SolutionTest {
 
     Solution solution;
